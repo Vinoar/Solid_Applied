@@ -20,27 +20,27 @@ namespace Solid_Applied
 
         } 
 
-        public abstract class EMailOperations
-        {
-            public virtual void GetStacks()
-            {
-                throw new NotImplementedException();
-            }
+public abstract class EMailOperations
+{
+    public virtual void GetStacks()
+    {
+        throw new NotImplementedException();
+    }
 
-        }
-        public class SendGridAPIOperation : EMailOperations
-        {
-            public override void GetStacks()
-            {
-                throw new NotImplementedException();
-            }
-        }
-        public class SMTPOperation : EMailOperations
-        {
-            public override void GetStacks()
-            {
-                throw new NotImplementedException();
-            }
-        }
+}
+public class SendGridAPIOperation : EMailOperations
+{
+    public override void GetStacks()
+    {
+        throw new NotImplementedException();
+    }
+}
+public class SMTPOperation : EMailOperations
+{
+    public override void GetStacks()
+    {
+        throw new NotImplementedException();
+    }
+}
     }
 }

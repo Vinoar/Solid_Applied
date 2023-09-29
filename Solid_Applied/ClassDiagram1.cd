@@ -6,7 +6,7 @@
       <HashCode>AAAAAAAAAAAAAgAAAAAAAAAACgAAAAAAAAAAAgAAAAA=</HashCode>
       <FileName>IEMailOperations.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Position="1.648" Collapsed="true" />
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="Solid_Applied.SMTPOperation" BaseTypeListCollapsed="true">
     <Position X="8" Y="3.5" Width="2" />
@@ -14,7 +14,7 @@
       <HashCode>AAAAAAAAAAAAAgAAAAAAAAAACgAAAAAAAAAAAgAAAAA=</HashCode>
       <FileName>IEMailOperations.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Position="0.2" Collapsed="true" />
+    <Lollipop Position="0.2" />
   </Class>
   <Interface Name="Solid_Applied.IEMailOperations">
     <Position X="6.75" Y="1.5" Width="2" />
